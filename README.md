@@ -1,4 +1,4 @@
-Altamash Nizamuddin
+# Altamash Nizamuddin
 
 Data Analyst | Business Intelligence | SQL | Power BI
 
