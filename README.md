@@ -10,7 +10,7 @@ My goal is to build practical analytical solutions that turn complex datasets in
 
 ---
 
-About Me
+## About Me
 
 - Focused on Data Analytics and Business Intelligence.
 - Building end-to-end projects using SQL, Excel, and Power BI.
@@ -20,7 +20,7 @@ About Me
 
 ---
 
-Technical Skills
+## Technical Skills
 
 Category| Technologies
 Data Analysis| Microsoft Excel
@@ -85,7 +85,7 @@ Dashboard exploring automobile pricing, brand performance, vehicle comparisons, 
 
 ---
 
-Currently Improving
+## Currently Improving
 
 - Advanced SQL and database querying
 - Power BI dashboard development
@@ -96,11 +96,11 @@ Currently Improving
 
 ---
 
-Connect With Me
+## Connect With Me
 
 - GitHub: "@altamash-analyst" (https://github.com/altamash-analyst)
 - LinkedIn: "Altamash Nizamuddin" (https://www.linkedin.com/in/altamash-nizamuddin-a208152a3/)
 
 ---
 
-Turning data into insights. Turning insights into better decisions.
+# Turning data into insights. Turning insights into better decisions.
