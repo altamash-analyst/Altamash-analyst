@@ -33,9 +33,9 @@ Version Control| Git & GitHub
 
 ---
 
-Featured Projects
+## Featured Projects
 
-1. Food Delivery Analytics
+### 1. Food Delivery Analytics
 
 MySQL | SQL | Power BI
 
@@ -43,7 +43,7 @@ End-to-end analytics project exploring customer behavior, restaurant performance
 
 "View Project" (https://github.com/altamash-analyst/Food-Delivery-Analytics-MySQL-Power-BI)
 
-2. Logistics & Delivery Analytics
+### 2. Logistics & Delivery Analytics
 
 MySQL | SQL | Power BI
 
@@ -51,7 +51,7 @@ Analyzing shipment performance, delivery operations, route efficiency, driver pe
 
 "View Project" (https://github.com/altamash-analyst/Logistics-Delivery-Analytics-MySQL-Power-BI)
 
-3. Retail Sales Performance Analysis
+### 3. Retail Sales Performance Analysis
 
 Excel | Power Query | Power BI | DAX
 
@@ -59,7 +59,7 @@ Interactive dashboard analyzing sales performance, profitability, products, cust
 
 "View Project" (https://github.com/altamash-analyst/Retail-Sales-Performance-Analysis)
 
-4. E-Commerce Sales Analytics
+### 4. E-Commerce Sales Analytics
 
 Excel | Power Query | Power BI | DAX
 
@@ -67,7 +67,7 @@ Business intelligence dashboard covering sales, products, customers, sales chann
 
 "View Project" (https://github.com/altamash-analyst/E-Commerce-Sales-Analytics-Power-BI)
 
-5. Airbnb Data Analytics
+### 5. Airbnb Data Analytics
 
 Power BI | DAX | Data Modeling
 
@@ -75,7 +75,7 @@ Interactive dashboard exploring property performance, host insights, customer tr
 
 "View Project" (https://github.com/altamash-analyst/Airbnb-Data-Analytics-Dashboard-Power-BI-Project)
 
-6. Car Price Analysis
+### 6. Car Price Analysis
 
 Excel | Power BI | Data Visualization
 
