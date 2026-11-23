@@ -124,11 +124,13 @@ Explore my repositories, project documentation, dashboards, and analytics work.
 
 ---
 
+
 ## Let's Connect
 
 I'm always interested in connecting with professionals, recruiters, and organizations working in Data Analytics and Business Intelligence.
 
-- **Email:** [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
+- **LinkedIn:** [Altamash Nizamuddin](https://www.linkedin.com/in/altamash-nizamuddin-a208152a3/)
 - **GitHub:** [altamash-analyst](https://github.com/altamash-analyst)
+- **Email:** [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
 
 *Turning data into insights. Turning insights into better decisions.*
