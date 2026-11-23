@@ -11,7 +11,7 @@ My approach to data analytics goes beyond creating visualizations. I focus on un
 I continuously work on practical analytics projects across different industries, including Retail, E-Commerce, Sales, HR, Finance, Healthcare, Automotive, and Operations.
 
 - Location: Mumbai, India
-- Experience: 2+ years in data analytics
+- Experience: 6+ month's in data analytics
 - Focus: Data Analytics, Business Intelligence & Business Analysis
 - Open to: Data Analyst and Business Analyst opportunities, including remote roles.
 
