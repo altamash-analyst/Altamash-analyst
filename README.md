@@ -1,4 +1,4 @@
-# Hi, I'm Altamash Nizamuddin 👋
+# Hi, I'm Altamash Nizamuddin 
 
 ### Data Analyst | Power BI | SQL | Excel | Business Intelligence
 
