@@ -1,106 +1,134 @@
-# Altamash Nizamuddin
+# Hi, I'm Altamash Nizamuddin 👋
 
-Data Analyst | Business Intelligence | SQL | Power BI
+### Data Analyst | Power BI | SQL | Excel | Business Intelligence
 
-I am an aspiring Data Analyst focused on transforming raw data into meaningful insights that support better business decisions.
+I'm **Altamash Nizamuddin**, a Data Analyst passionate about transforming raw, complex data into meaningful insights that support better business decisions.
 
-I work on end-to-end analytics projects involving data preparation, SQL querying, business analysis, data modeling, and interactive dashboard development.
+I specialize in **Power BI, SQL (MySQL), Excel, DAX, and Power Query**, with a strong interest in data modeling, business intelligence, dashboard development, and analytical storytelling.
 
-My goal is to build practical analytical solutions that turn complex datasets into clear, actionable insights.
+My approach to data analytics goes beyond creating visualizations. I focus on understanding business requirements, preparing and transforming data, building structured data models, developing meaningful KPIs, and designing interactive dashboards that answer real business questions.
 
----
+I continuously work on practical analytics projects across different industries, including Retail, E-Commerce, Sales, HR, Finance, Healthcare, Automotive, and Operations.
 
-## About Me
-
-- Focused on Data Analytics and Business Intelligence.
-- Building end-to-end projects using SQL, Excel, and Power BI.
-- Interested in business performance, sales analytics, customer behavior, and operational efficiency.
-- Developing skills in data modeling, analytical problem-solving, and data visualization.
-- Continuously learning and improving through practical projects.
+- Location: Mumbai, India
+- Experience: 2+ years in data analytics
+- Focus: Data Analytics, Business Intelligence & Business Analysis
+- Open to: Data Analyst and Business Analyst opportunities, including remote roles.
 
 ---
 
 ## Technical Skills
 
-Category| Technologies
-Data Analysis| Microsoft Excel
-Business Intelligence| Power BI
-Query Language| SQL
-Database| MySQL
-Data Transformation| Power Query
-Calculations| DAX
-Version Control| Git & GitHub
+**Data Analytics & Business Intelligence**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Transformation & Modeling**
+
+![Power Query](https://img.shields.io/badge/Power%20Query-9B4F96?style=for-the-badge&logo=powerbi&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-6B4FBB?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-2E8B57?style=for-the-badge)
+
+**Design & Visualization**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+
+### Core Competencies
+
+- Data Cleaning & Data Preparation
+- Exploratory Data Analysis (EDA)
+- Data Transformation using Power Query
+- DAX Measures & Calculated Columns
+- Star Schema & Data Modeling
+- SQL Queries & Database Analysis
+- KPI Development & Performance Tracking
+- Business Intelligence & Reporting
+- Customer Segmentation & RFM Analysis
+- Sales, Revenue & Profitability Analysis
+- Interactive Dashboard Design
+- Business Insights & Analytical Storytelling
 
 ---
 
 ## Featured Projects
 
-### 1. Food Delivery Analytics
+A collection of hands-on data analytics and business intelligence projects demonstrating practical analytical skills, dashboard development, data modeling, and business problem-solving.
 
-MySQL | SQL | Power BI
+### Automotive & Sales Analytics
 
-End-to-end analytics project exploring customer behavior, restaurant performance, sales, discounts, delivery operations, and profitability.
+| Project | Description | Repository |
+|---|---|---|
+| Automotive Sales Analytics Dashboard | Analyzing automotive sales performance and business trends using Power BI. | [View Project](https://github.com/altamash-analyst/Automotive-Sales-Analytics-Dashboard) |
+| Car Price Analysis Dashboard | Exploring car pricing patterns and the factors influencing vehicle prices. | [View Project](https://github.com/altamash-analyst/Car-Price-Analysis-Dashboard-Power-BI-Project) |
+| Car Sales Performance | Analyzing car sales trends, performance indicators, and sales distribution. | [View Project](https://github.com/altamash-analyst/Car-Sales-Performance-Power-BI) |
+| Retail Sales Performance Analysis | Evaluating retail sales, revenue, profitability, and business performance. | [View Project](https://github.com/altamash-analyst/Retail-Sales-Performance-Analysis) |
+| E-Commerce Sales Analytics | Analyzing e-commerce sales performance through interactive Power BI reporting. | [View Project](https://github.com/altamash-analyst/E-Commerce-Sales-Analytics-Power-BI) |
+| Amazon E-Commerce Analytics | An end-to-end MySQL and Power BI project exploring e-commerce business performance. | [View Project](https://github.com/altamash-analyst/Amazon-E-Commerce-Analytics-MySQL-Power-BI) |
 
-"View Project" (https://github.com/altamash-analyst/Food-Delivery-Analytics-MySQL-Power-BI)
+### HR & Workforce Analytics
 
-### 2. Logistics & Delivery Analytics
+| Project | Description | Repository |
+|---|---|---|
+| HR Analytics — Star Schema Data Warehouse | Building an analytical data model using a star schema for workforce analysis. | [View Project](https://github.com/altamash-analyst/HR-Analytics-Dashboard-Power-BI-Star-Schema-Data-Warehouse) |
+| HR Analytics (Power BI) | Exploring workforce metrics, employee trends, and HR performance indicators. | [View Project](https://github.com/altamash-analyst/HR-Analytics-Power-BI) |
 
-MySQL | SQL | Power BI
+### Travel, Food & Housing Analytics
 
-Analyzing shipment performance, delivery operations, route efficiency, driver performance, and warehouse operations.
+| Project | Description | Repository |
+|---|---|---|
+| Airbnb Data Analytics Dashboard | Analyzing Airbnb listings, pricing patterns, and accommodation insights. | [View Project](https://github.com/altamash-analyst/Airbnb-Data-Analytics-Dashboard-Power-BI-Project) |
+| Zomato Analytics Dashboard | Exploring restaurant and food delivery analytics through Power BI. | [View Project](https://github.com/altamash-analyst/Zomato-Power-BI-Analytics-Dashboard-Project) |
+| Food Price Analysis Dashboard | Analyzing food price patterns and trends through interactive visualizations. | [View Project](https://github.com/altamash-analyst/Food-Price-Analysis-Dashboard-Power-BI-Project) |
+| Housing Price Analysis Dashboard | Exploring housing prices, market patterns, and pricing factors. | [View Project](https://github.com/altamash-analyst/Housing-Price-Analysis-Dashboard-Power-BI-Project) |
 
-"View Project" (https://github.com/altamash-analyst/Logistics-Delivery-Analytics-MySQL-Power-BI)
+### Finance, Operations & Risk Analytics
 
-### 3. Retail Sales Performance Analysis
+| Project | Description | Repository |
+|---|---|---|
+| Profitability Analysis | Analyzing revenue, costs, profit margins, and business profitability. | [View Project](https://github.com/altamash-analyst/Profitability-Analysis) |
+| Inventory Stock Analysis | Monitoring inventory levels, stock distribution, and inventory performance. | [View Project](https://github.com/altamash-analyst/Inventory-Stock-Analysis) |
+| Banking Customer Analytics | Exploring banking customer data and customer-related business insights. | [View Project](https://github.com/altamash-analyst/Banking-Customer-Analytics-Power-BI) |
+| Hospital Operations & Patient Analytics | Analyzing hospital operations, patient data, and healthcare performance metrics. | [View Project](https://github.com/altamash-analyst/Hospital-Operations-Patient-Analytics-Power-BI) |
 
-Excel | Power Query | Power BI | DAX
+### Customer & Marketing Analytics
 
-Interactive dashboard analyzing sales performance, profitability, products, customers, regional trends, and business targets.
-
-"View Project" (https://github.com/altamash-analyst/Retail-Sales-Performance-Analysis)
-
-### 4. E-Commerce Sales Analytics
-
-Excel | Power Query | Power BI | DAX
-
-Business intelligence dashboard covering sales, products, customers, sales channels, regional performance, returns, and profitability.
-
-"View Project" (https://github.com/altamash-analyst/E-Commerce-Sales-Analytics-Power-BI)
-
-### 5. Airbnb Data Analytics
-
-Power BI | DAX | Data Modeling
-
-Interactive dashboard exploring property performance, host insights, customer trends, pricing, and booking analytics.
-
-"View Project" (https://github.com/altamash-analyst/Airbnb-Data-Analytics-Dashboard-Power-BI-Project)
-
-### 6. Car Price Analysis
-
-Excel | Power BI | Data Visualization
-
-Dashboard exploring automobile pricing, brand performance, vehicle comparisons, and market trends.
-
-"View Project" (https://github.com/altamash-analyst/Car-Price-Analysis-Dashboard-Power-BI-Project)
+| Project | Description | Repository |
+|---|---|---|
+| Retail Customer Sales Segmentation | Analyzing customer purchasing behavior and developing customer segments. | [View Project](https://github.com/altamash-analyst/Retail-Customer-Sales-Segmentation) |
+| Marketing Campaign Performance | Evaluating marketing campaign performance and key business metrics. | [View Project](https://github.com/altamash-analyst/Marketing-Campaign-Performance-Power-BI) |
 
 ---
 
-## Currently Improving
+## What I Bring to a Project
 
-- Advanced SQL and database querying
-- Power BI dashboard development
-- DAX and data modeling
-- Excel-based data analysis
-- Business intelligence and analytical storytelling
-- Python for data analysis
+My analytical workflow focuses on delivering complete, business-oriented solutions:
 
----
-
-## Connect With Me
-
-- GitHub: "@altamash-analyst" (https://github.com/altamash-analyst)
-- LinkedIn: "Altamash Nizamuddin" (https://www.linkedin.com/in/altamash-nizamuddin-a208152a3/)
+1. **Business Understanding:** Identifying objectives, requirements, and key business questions.
+2. **Data Preparation:** Cleaning, transforming, and validating raw datasets.
+3. **Data Modeling:** Developing structured data models and meaningful relationships.
+4. **Analytical Development:** Creating DAX measures, KPIs, and SQL queries.
+5. **Visualization:** Designing interactive and user-friendly Power BI dashboards.
+6. **Insights & Recommendations:** Converting analytical findings into actionable business insights.
 
 ---
 
-# Turning data into insights. Turning insights into better decisions.
+## GitHub & Portfolio
+
+Explore my repositories, project documentation, dashboards, and analytics work.
+
+**GitHub:** [github.com/altamash-analyst](https://github.com/altamash-analyst)
+
+---
+
+## Let's Connect
+
+I'm always interested in connecting with professionals, recruiters, and organizations working in Data Analytics and Business Intelligence.
+
+- **Email:** [altamash9876@gmail.com](mailto:altamash9876@gmail.com)
+- **GitHub:** [altamash-analyst](https://github.com/altamash-analyst)
+
+*Turning data into insights. Turning insights into better decisions.*
